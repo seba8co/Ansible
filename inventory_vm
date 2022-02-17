@@ -1,0 +1,9 @@
+[Debian]
+vmsdt-collette-clone
+
+[all_vars]
+ansible_ssh_user = ansible
+ansible_ssh_pass = ****
+
+[Debian:vars]
+super_group = sudo
