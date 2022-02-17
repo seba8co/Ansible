@@ -1,0 +1,21 @@
+vcenter_hostname: "vc.becode.org"
+vcenter_username: "collette@becode.org"
+vcenter_password: "****"
+vcenter_datacenter: "BeCentral"
+vcenter_datastore: "datastore1"
+vcenter_port: 443
+vcenter_validate_certs: false
+
+vm_sdt_cpu_num: "2"
+vm_sdt_hotadd_cpu: true
+vm_sdt_hotremove_cpu: true
+vm_sdt_nested_virt: true
+vm_sdt_mem_size: "8192"
+vm_sdt_hotadd_memory: true
+vm_sdt_memory_reservation_lock: false
+vm_sdt_disk_size: "20480"
+vm_sdt_network: "LAN"
+vm_sdt_start_connected: true
+vm_sdt_datastore: "datastore4"
+userpass: "becode"
+username: "becode"
