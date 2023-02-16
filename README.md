@@ -4,7 +4,7 @@
 
 - Ansible = infrastructure as code + déployement de configuartions + installations
 - Basé sur Python
-- Orchestateur basé sur du push <> pas d'agent = serveur distant pousse les informations.
+- Orchestrateur basé sur du push <> pas d'agent = serveur distant pousse les informations.
 - Connection ssh
 - Différent des outils à base d'agents > pull (puppet etc ...)
 
